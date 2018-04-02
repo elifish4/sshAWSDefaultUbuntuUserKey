@@ -10,5 +10,4 @@ Connect AWS instances with default keys for diffrent env more easiest way.
 
 Usage:
 
-``` s INSTANCE_IP```
-``` s INSTANCE_NAME```
+````eli@eli-Latitude-E7470:~$ s 172.30.15.5````
